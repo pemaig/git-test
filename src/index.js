@@ -49,3 +49,6 @@ function compose(...args) {
 }
 
 console.log(compose(5, addOne, mulTwo));
+
+console.log('commit 1 CHANGED')
+console.log('commit 2 CHANGED')
